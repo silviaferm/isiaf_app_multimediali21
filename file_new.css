@@ -1,0 +1,9 @@
+body {
+background-color: rgb(24,243,120);
+}
+h1 {
+color: yellow;
+}
+h1#corsivo{
+font-style: italic;
+}

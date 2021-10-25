@@ -1,0 +1,37 @@
+body {
+background-color: #000000;
+font-family: 'Avenir', sans-serif;
+color: rgb(34, 225, 244);
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  color: #ccff00;
+}
+a {
+  color: #f9bc5c;
+}
+.blu{color:blue;}
+.verde{color:green;}
+.menu li {
+display: inline;
+padding: 10px;
+border-right: 2px solid white;
+font-family: 'Roboto', sans-serif;
+/*text-transform: uppercase;*/
+}
+.menu li:last-of-type {
+  border: 0;
+}
+.menu li a {
+  color: white;
+  text-decoration: none;
+}
+.menu li a:hover {
+  /*text-decoration: underline;*/
+  border-bottom: 1px solid green
+}
+.barcellona {
+  border: 10px solid magenta;
+  padding: 50px;
+}
